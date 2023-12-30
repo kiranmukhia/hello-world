@@ -99,32 +99,30 @@ Lower / Abdominal Head / Serratus Anterior:
 - Decline Barbell Bench Press
 - Decline Dumbbell Press
 
-* Push-Ups
-
 ### Shoulder
 
-Anterior Deltoid:
-Overhead Press
+- Anterior Deltoid:
+  Overhead Press
 
 Front Raises
 
 Standing Dumbbell Shoulder Press
 
-Lateral Deltoid:
-Lateral Raises
+- Lateral Deltoid:
+  Lateral Raises
 
 Upright Rows
 
-Posterior Deltoid:
-Rear Delt Flys
+- Posterior Deltoid:
+  Rear Delt Flys
 
 Face Pulls
 
 ### Triceps
 
-     Long head.
-     Lateral head.
-     Medial head.
+- Long Head
+- Lateral Head
+- Medial Head
 
 Along with the biceps, it enables extension and retraction of the forearm. When the triceps are contracted, the forearm extends and the elbow straightens; if the triceps are relaxed and the biceps flexed, the forearm retracts and the elbow bends.
 
@@ -167,15 +165,15 @@ Cable Row:
 
 The trapezius muscle acts as both a posture stabilizer and a movement muscle. Common actions you may recognize that involve the trapezius include shrugging your shoulders, tilting, turning and extending your neck, and keeping your shoulder blades down your back.
 
-Superior Trapezius (Upper):
-Barbell Shrugs
-Upright Rows
-Middle Trapezius (Medial):
-Rack Pulls
-Face Pulls
-Inferior Trapezius (Lower):
-Reverse Flys
-Band Pull Aparts
+- Superior Trapezius (Upper):
+  Barbell Shrugs
+  Upright Rows
+- Middle Trapezius (Medial):
+  Rack Pulls
+  Face Pulls
+- Inferior Trapezius (Lower):
+  Reverse Flys
+  Band Pull Aparts
 
 Barbell Upright row
 Dumbbell shrug
@@ -184,9 +182,9 @@ Dumbbell shrug
 
 The biceps helps to bend the elbow joint, bringing the lower arm towards the upper arm. This movement is important for activities such as lifting, carrying, and climbing. The biceps muscle also helps to rotate the forearm so that the palm faces upwards. This movement is important for activities such as turning a doorknob or holding a cup. The biceps muscle helps to stabilize the shoulder joint by attaching to the scapula (shoulder blade) and helping to keep the arm in place when it is being used for activities such as lifting or throwing. The biceps muscle helps to maintain good posture by pulling the shoulder blade down and inwards; helping to keep the shoulders from slumping forward.
 
-Short Head:
-Long Head:
-Brachialis:
+- Short Head:
+- Long Head:
+- Brachialis:
 
 EZ Barbell curl, dumbbell on thigh
 Preacher Curl / Scott Curl
@@ -196,10 +194,11 @@ Preacher Curl / Scott Curl
 ### Quadriceps
 
 Quadriceps (Front of thigh) or quads, consist of four muscles. They are:
-rectus femoris: This muscle runs straight down your thigh and helps with knee and hip flexion.
-vastus medialis: This muscle's function is to extend your knee joint and help stabilize your kneecap.
-vastus lateralis: The largest of the four quad muscles, it connects your thigh bone to your kneecap.
-vastus intermedius: Along with other muscles in your knee, the vastus intermedius facilitates knee extension.
+
+- rectus femoris: This muscle runs straight down your thigh and helps with knee and hip flexion.
+- vastus medialis: This muscle's function is to extend your knee joint and help stabilize your kneecap.
+- vastus lateralis: The largest of the four quad muscles, it connects your thigh bone to your kneecap.
+- vastus intermedius: Along with other muscles in your knee, the vastus intermedius facilitates knee extension.
 
 ### Hamstrings
 
@@ -212,17 +211,18 @@ Your hamstring muscles control movement of your torso, hips and knees, help turn
 (Hamstring - Back of thigh)
 The lateral hamstring is the biceps femoris. The medial hamstrings are the semitendinosus and the semimembranosus. The tendons for these muscles begin at your ischial tuberosity, or ischium (the bony bump under each buttock), and attach on the outer edges of your shin bones (tibia and fibula) just below the back of your knee.
 
-Biceps Femoris: This is made up of 2 parts - a short head and long head.
-Semitendinosus: This joins the sartorius muscle and gracilis muscle at the pes anserinus on the tibia.
-Semimembranosus: This is the largest hamstring muscle.
+- Biceps Femoris: This is made up of 2 parts - a short head and long head.
+- Semitendinosus: This joins the sartorius muscle and gracilis muscle at the pes anserinus on the tibia.
+- Semimembranosus: This is the largest hamstring muscle.
 
 ### Calves
 
 Your calf muscle supports you when you stand and enables you to move your foot and your lower leg. It propels (pushes) you forward when you walk or run. It also allows you to jump, rotate your ankle, flex your foot and “lock” your knee.
 
 The main muscles in the calf are:
-Gastrocnemius:
-Soleus:
+
+- Gastrocnemius:
+- Soleus:
 
 Calf Raises - Standing Single Leg hold dumbbell in hand
 Seated Calf Raise Machine
@@ -233,9 +233,9 @@ It’s understood that the butt muscles help with hip rotation and extension. Bo
 
 It’s important for the entire lower body to be strong enough to assist with the lift. If one part of a muscle group fails to take the weight, it falls on the other secondary parts included in the motion. You could injure yourself, or the motion could remain incomplete due to uneven weight distribution.
 
-Gluteus Maximus:
-Gluteus Medius:
-Gluteus Minimus:
+- Gluteus Maximus:
+- Gluteus Medius:
+- Gluteus Minimus:
 
 ## References
 
