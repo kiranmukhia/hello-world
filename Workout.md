@@ -87,15 +87,19 @@ Upper / Clavicular Head / Pectoralis Minor:
 - Incline Barbell Bench Press
 - Incline Dumbbell Press
 - Incline Dumbbell Flyes
-  Middle / Sternal Head / Pectoralis Major:
+
+Middle / Sternal Head / Pectoralis Major:
+
 - Flat Barbell Bench Press
 - Flat Dumbbell Press
 - Chest Press Machine
-  Lower / Abdominal Head / Serratus Anterior:
+
+Lower / Abdominal Head / Serratus Anterior:
+
 - Decline Barbell Bench Press
 - Decline Dumbbell Press
 
-* Push-Ups
+* Push-ups
 
 Shoulder
 
