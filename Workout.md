@@ -191,16 +191,18 @@ Brachialis:
 EZ Barbell curl, dumbbell on thigh
 Preacher Curl / Scott Curl
 
-### Legs
+## Legs
 
-Quadriceps
+### Quadriceps
 
 Quadriceps (Front of thigh) or quads, consist of four muscles. They are:
 rectus femoris: This muscle runs straight down your thigh and helps with knee and hip flexion.
 vastus medialis: This muscle's function is to extend your knee joint and help stabilize your kneecap.
 vastus lateralis: The largest of the four quad muscles, it connects your thigh bone to your kneecap.
 vastus intermedius: Along with other muscles in your knee, the vastus intermedius facilitates knee extension.
-Hamstrings
+
+### Hamstrings
+
 Well conditioned and flexible hamstring muscles are very important to athletes to stabilize the knees and prevent hamstring pain and hamstring injury.
 
 The posterior upper leg muscles provide your knees with mobility (extension, flexion and rotation) and strength. They work closely with your quadriceps muscles at the front of your thigh, your gluteal muscles, and your calf muscles to ensure proper movement of your leg and hip.
@@ -214,7 +216,8 @@ Biceps Femoris: This is made up of 2 parts - a short head and long head.
 Semitendinosus: This joins the sartorius muscle and gracilis muscle at the pes anserinus on the tibia.
 Semimembranosus: This is the largest hamstring muscle.
 
-Calves
+### Calves
+
 Your calf muscle supports you when you stand and enables you to move your foot and your lower leg. It propels (pushes) you forward when you walk or run. It also allows you to jump, rotate your ankle, flex your foot and “lock” your knee.
 
 The main muscles in the calf are:
@@ -223,9 +226,9 @@ Soleus:
 
 Calf Raises - Standing Single Leg hold dumbbell in hand
 Seated Calf Raise Machine
-Glutes
 
-(Bums)
+### Glutes (Bums)
+
 It’s understood that the butt muscles help with hip rotation and extension. Both these functions are essential for walking, running, and weight lifting. For example, the glutes play a secondary role in deadlifts.
 
 It’s important for the entire lower body to be strong enough to assist with the lift. If one part of a muscle group fails to take the weight, it falls on the other secondary parts included in the motion. You could injure yourself, or the motion could remain incomplete due to uneven weight distribution.
