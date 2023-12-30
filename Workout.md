@@ -98,6 +98,7 @@ Lower / Abdominal Head / Serratus Anterior:
 
 - Decline Barbell Bench Press
 - Decline Dumbbell Press
+  Push-Ups
 
 Shoulder
 
