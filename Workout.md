@@ -19,80 +19,83 @@ A great warmup routine should target all major muscle groups in your body to imp
 
 ### Neck Rotations:
 
-Start by sitting or standing tall with your shoulders relaxed.
-Slowly rotate your head to the right, bringing your chin towards your shoulder. Hold for 5 seconds.
-Repeat on the other side, rotating your head to the left.
-Perform 5-10 repetitions on each side.
+- Start by sitting or standing tall with your shoulders relaxed.
+- Slowly rotate your head to the right, bringing your chin towards your shoulder. Hold for 5 seconds.
+- Repeat on the other side, rotating your head to the left.
+- Perform 5-10 repetitions on each side.
 
 ### Arm Circles:
 
-Extend your arms out to the sides, parallel to the ground.
-Make small circles forward with your arms, gradually increasing the size of the circles.
-Reverse the direction and make small circles backward with your arms.
-Perform 10-15 repetitions in each direction.
+- Extend your arms out to the sides, parallel to the ground.
+- Make small circles forward with your arms, gradually increasing the size of the circles.
+- Reverse the direction and make small circles backward with your arms.
+- Perform 10-15 repetitions in each direction.
 
 ### Torso Twists:
 
-Stand with your feet shoulder-width apart and your arms extended out to the sides.
-Keeping your hips and legs stationary, twist your torso to the right, bringing your right hand towards your back.
-Hold for 5 seconds, then twist to the left, bringing your left hand towards your back.
-Perform 10-15 repetitions on each side.
+- Stand with your feet shoulder-width apart and your arms extended out to the sides.
+- Keeping your hips and legs stationary, twist your torso to the right, bringing your right hand towards your back.
+- Hold for 5 seconds, then twist to the left, bringing your left hand towards your back.
+- Perform 10-15 repetitions on each side.
 
 ### Leg Swings Forward and Backward:
 
-Stand with your feet shoulder-width apart.
-Swing your right leg forward, keeping your leg straight. Hold for 5 seconds.
-Bring your leg back down and swing your left leg forward.
-Perform 10-15 repetitions on each side.
-Repeat the same motion, swinging your legs backward.
+- Stand with your feet shoulder-width apart.
+- Swing your right leg forward, keeping your leg straight. \* \* Hold for 5 seconds.
+- Bring your leg back down and swing your left leg forward.
+- Perform 10-15 repetitions on each side.
+- Repeat the same motion, swinging your legs backward.
 
 ### Knee Lifts:
 
-Stand with your feet hip-width apart.
-Bring your right knee up towards your chest, grabbing your shin or thigh. Hold for 5 seconds.
-Gently lower your right leg back down and repeat with your left leg.
-Perform 10-15 repetitions on each side.
+- Stand with your feet hip-width apart.
+- Bring your right knee up towards your chest, grabbing your shin or thigh. Hold for 5 seconds.
+- Gently lower your right leg back down and repeat with your left leg.
+- Perform 10-15 repetitions on each side.
 
 ### Quad Stretches:
 
-Stand with your feet shoulder-width apart.
-Bend your right leg, bringing your heel towards your buttocks.
-Grasp your ankle or the bottom of your foot and gently pull your heel towards your buttocks.
-Hold for 20-30 seconds.
-Switch legs and repeat on the other side.
+- Stand with your feet shoulder-width apart.
+- Bend your right leg, bringing your heel towards your buttocks.
+- Grasp your ankle or the bottom of your foot and gently pull your heel towards your buttocks.
+- Hold for 20-30 seconds.
+- Switch legs and repeat on the other side.
 
 ### Hamstring Stretches:
 
-Sit on the floor with your legs extended in front of you.
-Reach towards your toes, keeping your back straight.
-Hold for 20-30 seconds.
-Slowly bend your back forward, reaching further towards your toes.
-Hold for another 20-30 seconds.
+- Sit on the floor with your legs extended in front of you.
+- Reach towards your toes, keeping your back straight.
+- Hold for 20-30 seconds.
+- Slowly bend your back forward, reaching further towards your toes.
+- Hold for another 20-30 seconds.
 
 ### Calf Stretches:
 
-Stand facing a wall with your right hand placed on the wall for balance.
-Step your left leg back, keeping your heel on the ground.
-Lean forward, bending your right knee and keeping your left leg straight.
-Feel a stretch in your left calf.
-Hold for 20-30 seconds.
-Switch legs and repeat on the other side.
+- Stand facing a wall with your right hand placed on the wall for balance.
+- Step your left leg back, keeping your heel on the ground.
+- Lean forward, bending your right knee and keeping your left leg straight.
+- Feel a stretch in your left calf.
+- Hold for 20-30 seconds.
+- Switch legs and repeat on the other side.
 
 Push
+
 Chest
 
 Upper / Clavicular Head / Pectoralis Minor:
-Incline Barbell Bench Press
-Incline Dumbbell Press
-Incline Dumbbell Flyes
-Middle / Sternal Head / Pectoralis Major:
-Flat Barbell Bench Press
-Flat Dumbbell Press
-Chest Press Machine
-Lower / Abdominal Head / Serratus Anterior:
-Decline Barbell Bench Press
-Decline Dumbbell Press
-Push-Ups
+
+- Incline Barbell Bench Press
+- Incline Dumbbell Press
+- Incline Dumbbell Flyes
+  Middle / Sternal Head / Pectoralis Major:
+- Flat Barbell Bench Press
+- Flat Dumbbell Press
+- Chest Press Machine
+  Lower / Abdominal Head / Serratus Anterior:
+- Decline Barbell Bench Press
+- Decline Dumbbell Press
+
+* Push-Ups
 
 Shoulder
 
