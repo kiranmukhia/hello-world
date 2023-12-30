@@ -78,9 +78,9 @@ A great warmup routine should target all major muscle groups in your body to imp
 - Hold for 20-30 seconds.
 - Switch legs and repeat on the other side.
 
-Push
+## Push
 
-Chest
+### Chest
 
 Upper / Clavicular Head / Pectoralis Minor:
 
@@ -101,7 +101,7 @@ Lower / Abdominal Head / Serratus Anterior:
 
 * Push-Ups
 
-Shoulder
+### Shoulder
 
 Anterior Deltoid:
 Overhead Press
@@ -120,7 +120,7 @@ Rear Delt Flys
 
 Face Pulls
 
-Triceps
+### Triceps
 
      Long head.
      Lateral head.
@@ -143,10 +143,11 @@ Skull crushers
 Reverse grip tricep pushdown
 Close grip dumbbell bench press
 
-Pull
+## Pull
+
 The back comprises the Traps and Lats. In addition, we have a few which is depicted in this image,
 
-Lats
+### Lats
 
 Latissimus dorsi is a climbing muscle. With the arms fixed above the head, it can raise the trunk upwards, together with the help of pectoralis major. It is an important muscle in rowing, swimming (especially during the downstroke) and chopping. The muscle is also active in violent expiration, as it attaches to the ribs. During a cough or sneeze, the muscle can be felt pressing forcibly inward, as it acts to compress the thorax and abdomen. The muscle assists in holding the scapula against the thorax during upper limb movements.
 
@@ -161,7 +162,8 @@ Dumbbell Chest Supported Rows:
 Lat Pulldown:
 
 Cable Row:
-Trapezius (Traps)
+
+### Trapezius (Traps)
 
 The trapezius muscle acts as both a posture stabilizer and a movement muscle. Common actions you may recognize that involve the trapezius include shrugging your shoulders, tilting, turning and extending your neck, and keeping your shoulder blades down your back.
 
@@ -177,7 +179,8 @@ Band Pull Aparts
 
 Barbell Upright row
 Dumbbell shrug
-Biceps
+
+### Biceps
 
 The biceps helps to bend the elbow joint, bringing the lower arm towards the upper arm. This movement is important for activities such as lifting, carrying, and climbing. The biceps muscle also helps to rotate the forearm so that the palm faces upwards. This movement is important for activities such as turning a doorknob or holding a cup. The biceps muscle helps to stabilize the shoulder joint by attaching to the scapula (shoulder blade) and helping to keep the arm in place when it is being used for activities such as lifting or throwing. The biceps muscle helps to maintain good posture by pulling the shoulder blade down and inwards; helping to keep the shoulders from slumping forward.
 
@@ -188,7 +191,8 @@ Brachialis:
 EZ Barbell curl, dumbbell on thigh
 Preacher Curl / Scott Curl
 
-Legs
+### Legs
+
 Quadriceps
 
 Quadriceps (Front of thigh) or quads, consist of four muscles. They are:
@@ -230,15 +234,16 @@ Gluteus Maximus:
 Gluteus Medius:
 Gluteus Minimus:
 
-References
-https://www.lybrate.com/topic/biceps-image
-https://athleanx.com/articles/5-red-flags-of-a-weak-chest-fix-these
-https://en.wikipedia.org/wiki/Triceps
-https://www.healthline.com/human-body-maps/triceps#1
-https://www.physio-pedia.com/Latissimus_Dorsi_Muscle
-https://www.menshealth.com/uk/building-muscle/a38421209/quad-exercises/
-https://aidyourhamstring.com/hamstring-anatomy/hamstring-anatomy.php
-https://my.clevelandclinic.org/health/body/21662-calf-muscle
-https://www.sportskeeda.com/health-and-fitness/what-are-glute-muscles-why-should-you-train-them
-https://www.menshealth.com/uk/building-muscle/a45480605/prison-workout/
-https://barbend.com/chest-muscles-anatomy/
+## References
+
+- https://www.lybrate.com/topic/biceps-image
+- https://athleanx.com/articles/5-red-flags-of-a-weak-chest-fix-these
+- https://en.wikipedia.org/wiki/Triceps
+- https://www.healthline.com/human-body-maps/triceps#1
+- https://www.physio-pedia.com/Latissimus_Dorsi_Muscle
+- https://www.menshealth.com/uk/building-muscle/a38421209/quad-exercises/
+- https://aidyourhamstring.com/hamstring-anatomy/hamstring-anatomy.php
+- https://my.clevelandclinic.org/health/body/21662-calf-muscle
+- https://www.sportskeeda.com/health-and-fitness/what-are-glute-muscles-why-should-you-train-them
+- https://www.menshealth.com/uk/building-muscle/a45480605/prison-workout/
+- https://barbend.com/chest-muscles-anatomy/
