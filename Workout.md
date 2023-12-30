@@ -99,8 +99,6 @@ Lower / Abdominal Head / Serratus Anterior:
 - Decline Barbell Bench Press
 - Decline Dumbbell Press
 
-* Push-ups
-
 Shoulder
 
 Anterior Deltoid:
