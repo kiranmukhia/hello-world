@@ -101,20 +101,21 @@ Lower / Abdominal Head / Serratus Anterior:
 
 ### Shoulder
 
-- Anterior Deltoid:
-  Overhead Press
+Anterior Deltoid:
 
-Front Raises
+- Overhead Press
+- Front Raises
 
-Standing Dumbbell Shoulder Press
+* Standing Dumbbell Shoulder Press
 
-- Lateral Deltoid:
-  Lateral Raises
+Lateral Deltoid:
 
-Upright Rows
+- Lateral Raises
+- Upright Rows
 
-- Posterior Deltoid:
-  Rear Delt Flys
+Posterior Deltoid: <br>
+
+- Rear Delt Flys
 
 Face Pulls
 
