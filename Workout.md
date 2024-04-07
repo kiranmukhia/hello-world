@@ -1,5 +1,15 @@
 ## Index
 
+### Pointers
+
+### Warmup
+
+### Push
+
+### Pull
+
+### Legs
+
 ## Pointers
 
 1. Load
